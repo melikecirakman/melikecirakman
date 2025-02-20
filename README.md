@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melike</h1>
-<h3 align="center">Information Management Officer</h3>
+<h3 align="center">Information Management Expert</h3>
 
 <h3 align="center">Dashboards:</h3>
 <p align="center">
